@@ -1,5 +1,5 @@
 {
-    "name": "spryker-sdk/integrator",
+    "name": "geega/integrator",
     "type": "composer-plugin",
     "description": "Integrator module",
     "license": "proprietary",
